@@ -1,4 +1,4 @@
-![White Twitter logo in front of a textured horizontal banner of blue overlaid on white](https://opendistro.github.io/for-elasticsearch/assets/media/move-to-opensearch.png)
+![OpenSearch and Open Distro Logos](https://opendistro.github.io/for-elasticsearch/assets/media/move-to-opensearch.png)
 
 
 
